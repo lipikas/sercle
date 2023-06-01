@@ -132,6 +132,11 @@ const NavStyled = styled.nav`
                 }
             }
 	}
+	//gets rid of the scroll option that shows up in the nav bar
+	li.nav-item {
+        overflow: hidden;
+        white-space: nowrap;
+    }
 `;
 
 export default Nav;
