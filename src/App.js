@@ -40,10 +40,10 @@ function App() {
 			<About2 />
 			<Solution />
 			<Solution2 />
-			<Hiring />
-			<Hiring4 />
+			{/* <Hiring />
+			<Hiring4 /> */}
 			{/* <Hiring2 /> */}
-			<Hiring3 />
+			{/* <Hiring3 /> */}
 			<Footer />
 		</AppStyled>
 	);
